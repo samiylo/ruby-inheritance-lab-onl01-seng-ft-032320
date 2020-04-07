@@ -4,4 +4,8 @@ class User
     @name = name 
     
   end
+  
+  def first_name
+    @name 
+  end
 end
